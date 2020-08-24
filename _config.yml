@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Fernando Torres Ferreira da Silva
+description: Master’s student in Computer Science and Math. Member of the Multimedia and Praise Ministries.
+url: https://fertorresfs.github.io/Halve
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,22 +29,22 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             fertorresfs@gmail.com
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+twitter:            fertorresfs
+facebook:           fertorresfs
+github:             fertorresfs
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          fertorresfs
 #xing:              username
-#instagram:          username
+instagram:          fertorresfs
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           fertorresfs
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
