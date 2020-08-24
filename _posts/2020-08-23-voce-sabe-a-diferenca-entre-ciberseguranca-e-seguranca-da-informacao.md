@@ -22,6 +22,8 @@ Significando que, embora a Cibersegurança seja apenas uma parte da Segurança d
 
 É necessário compreender que todos os mecanismos da Segurança da Informação são importantes. A Segurança Física impede a invasão nas instalações da organização e a Segurança Cibernética é necessária para atenuar as ameaças internas. Desse forma, podemos entender a diferença e a relação que uma área tem com a outra para assim reduzir a probabilidade de acesso por um invasor.
 
+scr
+
 Fonte: https://www.itgovernance.co.uk/blog/do-you-know-the-difference-between-cyber-security-and-information-security
 
 #segurançadainformação #cibersegurança #segurançacibernética #tfzeg #informationsecurity #cybersecurity
