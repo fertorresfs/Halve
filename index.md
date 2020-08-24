@@ -1,10 +1,12 @@
 ---
 layout: home
 ---
-# About Theme
+# About
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Experiência com mais de 11 anos atuando na área de Tecnologia da Informação e Comunicações, Desenvolvimento de Sistemas e Segurança da Informação;
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Graduado em Banco de Dados pela Fatec;
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Pós-graduado em MBA em Gestão da Segurança da Informação pela Uniara;
+
+Mestrando em Ciências da Computação e Matemática Computacional pela USP. 
